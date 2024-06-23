@@ -96,6 +96,9 @@
     width: 200px;
     height: 200px;
 }
+.blog-parent h1{
+    font-size: 20px;
+}
 /*footer*/
 .footer{
     background-color: black;
@@ -158,6 +161,9 @@
     .blog-parent{
         flex-direction: column;
         margin: 0;
+    }
+    .blog-parent img{
+        width: 100%;
     }
     .blog-parent h1{
         font-size: 20px;
