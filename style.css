@@ -92,6 +92,10 @@
     /* border-bottom: 1px black solid; */
     padding: 20px;
 }
+.blog-parent img{
+    width: 200px;
+    height: 200px;
+}
 /*footer*/
 .footer{
     background-color: black;
